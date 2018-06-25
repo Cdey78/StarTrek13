@@ -110,7 +110,7 @@ var/global/list/global_ship_list = list()
 
 /obj/structure/space_object/simulated
 	name = "star"
-	desc = "Flying into this always end up with horridly amazing fun!"
+	desc = "Flying near a star will always prove as an effective way to \"calm\" down your restless crew!"
 	var/cooldown = 30 //once every three seconds, to prevent it from just spamming the shit out of it
 	var/time_elapse
 	pixel_x = -128
